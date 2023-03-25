@@ -14,7 +14,7 @@ commit;
 INSERT INTO session (id, token, created, is_active, user_id) 
 VALUES (
 'e333be9c-b8e9-434e-c420-42dc80504001', 
-'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqb2huLmRvZUBnbWFpbC5jb20iLCJleHAiOjYzNzUyNTE5NjQ2MTA2MSwibmFtZSI6InBydWViYTEyNUFAIn0.PdcO3CpOikWqmca1uaAlUGukhJnysJtir5dhEF3mZgQ',
+'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjYW1pbG8uZGVsZ2Fkb2NAZ21haWwuY29tIiwiZXhwIjoxMzQ3NjI2MDQwODQ4MjYxLCJuYW1lIjoidGFyNTY0UE9zc2QqIn0.V-F-QgwsveZkygL4UWmlIJ5XYC6QEiqT6R6v7lzfQVM',
 DATE '2023-03-10', 
 1,
 'e333be9c-b8e9-434e-a420-42dc80502001');
